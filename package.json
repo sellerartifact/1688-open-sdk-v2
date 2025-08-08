@@ -1,6 +1,6 @@
 {
-  "name": "1688-open-sdk-v2",
-  "version": "1.0.0",
+  "name": "1688-open-sdk",
+  "version": "0.1.0",
   "type": "module",
   "exports": {
     ".": {
@@ -25,5 +25,8 @@
     "typescript": "^5.9.2",
     "vitest": "^3.2.4"
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "axios": "^1.11.0"
+  }
 }
