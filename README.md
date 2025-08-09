@@ -33,7 +33,7 @@ import ApiExecutor from "1688-open-sdk"
 
 或者
 
-const ApiExecutor = require("1688-open-sdk")
+const ApiExecutor = require("1688-open-sdk").default
 ```
 
 #### 配置
